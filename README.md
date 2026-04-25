@@ -11,9 +11,10 @@
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f11f3b3-8247-4639-8c30-6cd04051f4bf" width="45%" />
-  <img src="https://github.com/user-attachments/assets/8e3b9af6-8c37-48a8-b5f8-632e26e454b5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/19b96f1a-3304-4410-971d-f9bececf2ced" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fc81a49a-4800-410d-b548-97863463f5f0" width="45%" />
 </p>
+
 
 ## Features
 
