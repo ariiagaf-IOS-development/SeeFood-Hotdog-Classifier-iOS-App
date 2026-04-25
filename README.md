@@ -11,10 +11,9 @@
 ## Demo
 
 <p align="center">
-  <img src="./screenshots/seefood-demo-1.gif" width="45%" />
-  <img src="./screenshots/seefood-demo-2.gif" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8f11f3b3-8247-4639-8c30-6cd04051f4bf" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8e3b9af6-8c37-48a8-b5f8-632e26e454b5" width="45%" />
 </p>
-
 
 ## Features
 
